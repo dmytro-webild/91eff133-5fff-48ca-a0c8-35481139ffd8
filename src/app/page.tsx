@@ -122,7 +122,7 @@ export default function LandingPage() {
         { id: "t4", name: "Κώστας Β.", role: "Επαγγελματίας", company: "Καλαμαριά", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-smiling-businessman-showing-thumbs-up-with-funny-faces-drawings-focus-hands-white-modern-office-interior_176420-6491.jpg" },
         { id: "t5", name: "Άννα Τ.", role: "Επισκέπτρια", company: "Αθήνα", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/happy-smiling-woman-eating-out-asian-restaurant-looking-asid_197531-22363.jpg" },
       ]}
-      title="Τι λένε οι πελάτες μας"
+      title=""
       description="Η γνώμη σας είναι η καλύτερη επιβράβευση για εμάς."
     />
   </div>
